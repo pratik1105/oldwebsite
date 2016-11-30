@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Pratik Mishra
+bio: Jock and Nerd rolled into one
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -10,10 +10,10 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://koppl.in/indigo
+url: https://pratik1105.github.io
 # your url: https://pratik1105.github.io
 
-permalink: /:title/
+permalink: /isse_kya/
 
 markdown: kramdown
 highlighter: rouge
