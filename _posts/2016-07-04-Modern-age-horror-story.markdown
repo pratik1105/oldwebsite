@@ -1,5 +1,5 @@
 ---
-title: "Perspective"
+title: "Modern age horror story"
 layout: post
 date: 2016-07-04 01:53
 image: /assets/images/markdown.jpg
