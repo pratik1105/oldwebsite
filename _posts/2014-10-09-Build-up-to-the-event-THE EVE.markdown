@@ -1,5 +1,5 @@
 ---
-title: "Antaragni 2014-THE WHY"
+title: "Antaragni 2014 - Build up to the event-THE EVE"
 layout: post
 date: 2014-10-09 07:05
 image: /assets/images/markdown.jpg
