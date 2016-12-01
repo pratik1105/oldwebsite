@@ -13,7 +13,7 @@ picture: assets/images/profile.jpg
 url: https://pratik1105.github.io
 # your url: https://pratik1105.github.io
 
-permalink: /isse_kya/
+permalink: /:title/
 
 markdown: kramdown
 highlighter: rouge
