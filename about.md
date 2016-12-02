@@ -4,43 +4,20 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I am Pratik Mishra, a Junior undergraduate at the [Department of Mathematics and Scientific Computing](http://www.iitk.ac.in/math/) at [IIT Kanpur](http://iitk.ac.in/).
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I am passionate about Mathematics,Computer Science and Machine Learning. I am fairly active at competitive programming. 
 
-<h2>Skills</h2>
+I like to [write](https://pratik1105.github.io/blog/) (occasionally).I enjoy(both playing and watching) all kinds of sports including but not limited to Basketball,Football(Soccer),Cricket,Table-Tennis,Badminton and Tennis.  
+I am also an avid reader of detective fiction([goodreads](https://www.goodreads.com/user/show/16333763-pratik-mishra).One of my produest achievements is that I have read **each and every** Sherlock Holmes story that Arthur Conan Doyle ever wrote(and published).
+Recently I have also started reading non-fiction.  
+I watch tons of TV shows (mainly from USA and UK).Chances are, I do watch your favorite TV show. So that could be an ice-breaker should we ever talk.
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+You can have a look at my projects [here](https://pratik1105.github.io/projects/)  
+You can have a look at CV [here](https://pratik1105.github.io/pratik1105.github.io/Pratik_Resume.pdf)  
+All Contact information is available [here](https://pratik1105.github.io/)
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+>“I , a universe of atoms , an atom in the universe.”
+>-Richard Feynman.  
+Have a wonderful Day ! Cheers !
