@@ -16,7 +16,7 @@ Recently I have also started reading non-fiction.
 I watch tons of TV shows (mainly from USA and UK).Chances are, I do watch your favorite TV show. So that could be an ice-breaker should we ever talk.
 
 You can have a look at my projects [here](https://pratik1105.github.io/projects/)  
-You can have a look at CV [here](https://pratik1105.github.io/pratik1105.github.io/Pratik_Resume.pdf)  
+You can have a look at my CV [here](https://pratik1105.github.io/pratik1105.github.io/Pratik_Resume.pdf)  
 All Contact information is available [here](https://pratik1105.github.io/)
 
 Favourite Quote:
