@@ -19,6 +19,7 @@ You can have a look at my projects [here](https://pratik1105.github.io/projects/
 You can have a look at CV [here](https://pratik1105.github.io/pratik1105.github.io/Pratik_Resume.pdf)  
 All Contact information is available [here](https://pratik1105.github.io/)
 
+Favourite Quote:
 
 >“I , a universe of atoms , an atom in the universe.”  
 >-Richard Feynman.  
