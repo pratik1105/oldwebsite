@@ -26,7 +26,7 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
 facebook: pratik.mishra.9
@@ -46,7 +46,7 @@ quora: Pratik-Mishra-8
 email: pratikmishra001@gmail.com
 
 authors:
-    pratik mishra:
+    Pratik Mishra:
         name: Pratik Mishra
         bio: Jock and nerd rolled into one
         external-image: false
