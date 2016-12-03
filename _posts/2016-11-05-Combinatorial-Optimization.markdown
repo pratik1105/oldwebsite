@@ -2,7 +2,7 @@
 title: "Combinatorial Optimization"
 layout: post
 date: 2016-04-10 22:10
-image: /assets/images/jekyll-logo-light-solid.png
+image: /assets/images/tsp.jpg
 headerImage: true
 tag: 
 - Optimization

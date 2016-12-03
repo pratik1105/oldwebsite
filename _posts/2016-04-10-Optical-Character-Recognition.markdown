@@ -2,7 +2,7 @@
 title: "Optical Character Recognition"
 layout: post
 date: 2016-04-10 22:10
-image: /assets/images/jekyll-logo-light-solid.png
+image: /assets/images/tensorflow.png
 headerImage: true
 tag: 
 - Machine Learning
