@@ -1,14 +1,14 @@
 ---
-title:"Optical Character Recognition"
+title: "Optical Character Recognition"
 layout: post
 date: 2016-04-10 22:10
-tag: 
--Machine Learning
--OCR
--Tensorflow
--Neural Network
 image: /assets/images/jekyll-logo-light-solid.png
 headerImage: true
+tag: 
+- Machine Learning
+- OCR
+- Tensorflow
+- Neural Network
 projects: true
 hidden: true # don't count this post in blog pagination
 description:"Simple project done in association with Programming club at IIT Kanpur"
