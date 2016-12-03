@@ -11,7 +11,7 @@ tag:
 - Neural Network
 projects: true
 hidden: true # don't count this post in blog pagination
-description:"Simple project done in association with Programming club at IIT Kanpur"
+description: "Simple project done in association with Programming club at IIT Kanpur."
 jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 author: Pratik Mishra
 externalLink: false
