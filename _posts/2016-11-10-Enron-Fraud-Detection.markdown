@@ -1,7 +1,7 @@
 ---
 title: "Fraud Detection from Enron emails dataset"
 layout: post
-date: 2016-04-10 22:10
+date: 2016-11-10 22:10
 image: /assets/images/enron.jpg
 headerImage: true
 tag: 

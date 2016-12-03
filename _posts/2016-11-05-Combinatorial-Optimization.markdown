@@ -1,7 +1,7 @@
 ---
 title: "Combinatorial Optimization"
 layout: post
-date: 2016-04-10 22:10
+date: 2016-11-05 22:10
 image: /assets/images/tsp.jpg
 headerImage: true
 tag: 
