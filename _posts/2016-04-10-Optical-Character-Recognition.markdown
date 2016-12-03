@@ -1,5 +1,5 @@
 ---
-title: "Optical Character Recognition"
+title:"Optical Character Recognition"
 layout: post
 date: 2016-04-10 22:10
 tag: 
