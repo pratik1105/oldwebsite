@@ -16,7 +16,7 @@ jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.gi
 author: Pratik Mishra
 externalLink: false
 ---
-This Project was done during the course CS774:Optimization Techniques under Professor Purushottam Kar at IIT Kanpur.
+This Project was done during the course **CS774:Optimization Techniques** under Professor Purushottam Kar at IIT Kanpur.
 
 This was a reading project on Problems of Combinatorial Optimization such as the [Travelling salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) and the [Max Flow problem](https://en.wikipedia.org/wiki/Maximum_flow_problem). 
 
