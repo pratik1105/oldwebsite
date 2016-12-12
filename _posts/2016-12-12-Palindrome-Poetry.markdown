@@ -7,7 +7,7 @@ headerImage: true
 tag: 
 - Poetry
 - Palindrome
-posts: true
+blog: true
 hidden: false
 description: "1st submission for the palindrome poetry contest by ELS IIT Kanpur"
 jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
@@ -17,12 +17,16 @@ externalLink: false
 
 14 only, was I,  
 but, you were 19.  
+
 Realize,do you,  
 Infinite memories,our,  
-of (daily)horror movies,vulgar inside jokes(unfunny),  
+of (daily) horror movies, vulgar inside jokes (unfunny),  
+
 that night turned into  
 (unfunny) jokes inside vulgar movies.  
-HORROR(daily) OF OUR MEMORIES:INFINITE.
+
+HORROR(daily) OF OUR MEMORIES : INFINITE.
+
 You do realize ?  
 19 were you  
 but I was only 14.
