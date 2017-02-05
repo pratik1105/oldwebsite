@@ -24,7 +24,7 @@ In case of hindi quotes, I try to provide english translations for the same.
 
 Right now it has a sole entry. Let's hope this list expands in the future.
 
-<h1>Quote number 1</h1>  
+<h3>Quote number 1</h3>  
 
 > "Sabse zada effort lagta hai effort lgaane me"  
 
