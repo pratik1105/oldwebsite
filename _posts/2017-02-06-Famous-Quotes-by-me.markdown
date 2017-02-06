@@ -1,7 +1,7 @@
 ---
 title: "Famous quotes by Me"
 layout: post
-date: 2016-12-12 22:20
+date: 2017-02-06 02:20
 image: /assets/images/quote.jpg
 headerImage: true
 tag: 
