@@ -22,10 +22,14 @@ The quotes could be both in hindi and english.
 
 In case of hindi quotes, I try to provide english translations for the same.
 
-Right now it has a sole entry. Let's hope this list expands in the future.
+Let's hope this list expands in the future.
 
 <h3>Quote number 1</h3>  
 
 > "Sabse zada effort lagta hai effort lgaane me"  
 
 Translation : The hardest part of any task is to put in the hardwork.
+
+<h3>Quote number 2</h3>  
+
+> "I believe we could be a lot of superlatives if only we relent on our pursuit of being the best."
